@@ -1,0 +1,27 @@
+Creating Project, Components, State & Lists | React JS Hindi/Urdu
+Saylani Web n App Weekend Class 10th October 2021
+Code: https://github.com/ishaq-bhojani/Sund...
+
+00:00:00 - Node Installation
+00:02:23 - The NVM Way
+00:07:41 - Confusion of NVM, NPM & NPX
+00:08:44 - Creating Project
+00:13:23 - Understanding Project Structure
+00:19:29 - Understanding Index.js
+00:21:13 - What is JSX?
+00:22:49 - Understanding ReactDOM.render
+00:26:07 - Different types of Import
+00:30:58 - Understanding Components
+00:37:26 - Running React App
+00:40:03 - Creating First Component
+00:44:09 - Creating More Components for List
+00:46:49 - Rule of Single Root Element
+00:48:17 - Dynamic data in UI
+00:49:38 - Passing Data as Props
+00:51:48 - Receiving Data as Props
+00:54:15 - Rendering Dynamic List from Array
+00:54:47 - Keys are necessary with List
+01:02:34 - Trying to change Data in Runtime
+01:04:51 - Why State
+01:06:04 - Using State
+01:14:14 - A Problem with State
